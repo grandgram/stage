@@ -29,3 +29,7 @@ li {
     font-size: 1em;
     font-family: 'manrope', sans-serif;
 }
+
+p.important {
+    color: #A5B4FC;
+}

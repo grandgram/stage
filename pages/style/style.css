@@ -1,0 +1,35 @@
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 1em;
+    font-family: 'manrope', sans-serif;
+}
+
+img.lien {
+    height: 30px;
+    width: 30px;
+}
+
+p {
+    font-size: 1.1em;
+    font-family: 'manrope', sans-serif;
+}
+
+img.x {
+    height: 21.60px;
+}
+
+h1 {
+    font-size: 3.5em;
+    color: #A5B4FC;
+    font-family: 'montserrat', sans-serif;
+}
+
+li {
+    font-size: 1em;
+    font-family: 'manrope', sans-serif;
+}
+
+span.a {
+    color: #A5B4FC;
+}
